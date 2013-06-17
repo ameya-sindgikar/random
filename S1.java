@@ -9,6 +9,8 @@ import java.util.Scanner;
  * Ameya Sindgikar
  * CCC 2011
  * March 1, 2011
+
+ New edit! June 16 2013
  */
 
 public class S1 
